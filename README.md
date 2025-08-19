@@ -15,7 +15,7 @@ This application has a few very simple example Controllers. In reality, they sho
 
 The video below shows the principle of how this works:
 
-<video controls src="https://github.com/bramcomyn/loama-as-assignment-proposal/blob/main/assets/ldaa.mp4" title="[![LDAA showcase video](./assets/ldaa.mp4)](./assets/)"></video>
+https://github.com/user-attachments/assets/d53d95f7-3164-4ae4-9ea6-235821d1f664
 
 ## Setup and running
 
